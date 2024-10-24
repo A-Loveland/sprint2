@@ -1,0 +1,15 @@
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.deps.json
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.dll
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\bin\Debug\net6.0\BuildingLibrary.pdb
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\bin\Debug\net6.0\VehicleLibrary.dll
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\bin\Debug\net6.0\VehicleLibrary.pdb
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.csproj.AssemblyReference.cache
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.AssemblyInfoInputs.cache
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.AssemblyInfo.cs
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\Building.4600E5AD.Up2Date
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.dll
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\refint\BuildingLibrary.dll
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\BuildingLibrary.pdb
+C:\Users\eevee\source\repos\LovelandSprint1\BuildingLibrary\obj\Debug\net6.0\ref\BuildingLibrary.dll
